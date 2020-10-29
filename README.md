@@ -12,6 +12,7 @@ This project was developed as part of a coursework requirement. It covers a rudi
  - It allows QDL (Query Definition Language) commands like Select with up to two where conditions 
  - Below screenshot shows the list of commands that are supported:
 
+![alt text](https://github.com/chatterjeesubhajit/myDavisBase/blob/main/Screenshot1.PNG)
  
 ## How I built it
 
