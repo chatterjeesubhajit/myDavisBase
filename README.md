@@ -2,6 +2,8 @@
 
 ## A light implementation of MySQL database engine  
 
+## To execute: java -jar db.jar
+
 ## Inspiration
 This project was developed as part of a coursework requirement. It covers a rudimentary implementation of MySQL database engine using *file-per-table* approach for physical storage, where each database table is stored as a separate file
 
